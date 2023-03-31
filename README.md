@@ -1,6 +1,6 @@
 # Pokemon API
 
-This is a sandbox project using Kotlin, Spring Boot, and Maven.
+This is a REST API Client sandbox project using Kotlin, Spring Boot, and Maven.
 
 ## Prerequisites
 
